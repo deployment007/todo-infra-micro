@@ -1,2 +1,2 @@
-<h3>High Level Diagram</h3>
+<h2 align="center">High Level Diagram</h2>
 <img src="./todo-infra.jpg" alt="hld">
